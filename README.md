@@ -109,6 +109,9 @@ print("Accuracy:", accuracy)
 
 This project demonstrates a complete machine learning workflow using KNN, including preprocessing, training, and evaluation.
 
+
+and the next file is logistic regression and loan approval problems classifying weather the  person has his loan approved or not
+
 ---
 
 ## 👨‍💻 Author
